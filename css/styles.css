@@ -76,3 +76,19 @@ ul li:hover {
     background-color: #007bff;
     border-color: #007bff;
 }
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.my-2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.small-img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
